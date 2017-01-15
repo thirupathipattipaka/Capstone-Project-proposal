@@ -2,10 +2,10 @@
 
 ##Capstone Proposal
 
-Joe Udacity
-December 31st, 2050
+Thirupathi Pattipaka  
+January 15th, 2017
 
-## Proposal
+## Computer Vision Capstone Project
 
 (approx. 2-3 pages)
 
